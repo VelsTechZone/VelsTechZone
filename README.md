@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VelsTechZone
-- 👀 I’m interested in AWS,Azure- Cloud / Networking /ITIL
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on AWS community
+- 👀 I’m interested in High Performance Computing(HPC) , Data Center / Networking
+- 🌱
+- 💞️ 
 - 📫 How to reach me https://www.linkedin.com/in/velmurugan-pandiyan/
 
 <!---
